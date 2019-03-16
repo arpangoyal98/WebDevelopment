@@ -38,6 +38,7 @@ p.main{
 }
 @media (min-width:630px) and (max-width: 949px) {
   .link{
+    background-size: cover;
     left: 35%;
     width: 30%;
     height: 20%;
@@ -45,6 +46,7 @@ p.main{
 }
 @media (max-width: 629px) {
   .link{
+    background-size: cover;
     left: 40%;
     width: 20%;
     height: 10%;
