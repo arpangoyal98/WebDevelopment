@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+html, body{
+  height: 100%;
+  margin: 0;
+
+  background-image: url("bg.jpg");
+
+  height: 100%;
+
+  /*background-position: center;*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p.ded{
+  text-align: center;
+  color: #000000;
+  font-weight: bold;
+}
+p.main{
+  text-align: center;
+  color: black;
+}
+.link{
+    border: 2px solid black;
+    background-image: url("uk.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    color: black;
+}
